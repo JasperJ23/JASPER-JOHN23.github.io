@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html alt="">
+<html >
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Merry Christmas To My Big Family </title>
+	
     <link rel="icon" href="file:///C:/Users/USER/Desktop/SEASONS%20GREETINGS/i.html"
           type="image/x-icon">
 
