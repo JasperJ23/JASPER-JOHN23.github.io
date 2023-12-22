@@ -1,1 +1,14 @@
-THI I MY WEB
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>MY WEB WORK</title>
+</head>
+<body>
+  <nav>
+    <p style="float:right;"></p>
+    <button><a href="#">Home page</a></button>
+  </nav>
+</body>
+</html>s
