@@ -10,5 +10,7 @@
     <p style="float:right;"></p>
     <button><a href="#">Home page</a></button>
   </nav>
+<P> HELLO GUYS THIS IS MY WEB</P>
+	<h1>this is a static website content</h1>
 </body>
 </html>s
